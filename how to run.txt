@@ -1,1 +1,1 @@
-open cmd in eShop/backend then type "yarn dev" then go to your browser and work your way in the website and enjoy!
+open cmd in eShop then type "yarn dev" then go to your browser and work your way in the website and enjoy!
